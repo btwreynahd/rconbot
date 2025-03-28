@@ -3,7 +3,7 @@ const config = {}
 require('dotenv').config()
 
 config.rcon = {
-    server: "fivem.bitshift.dev",
+    server: "fivem.btwreynahd",
     port: 30120,
     passwort: process.env.PASSWORT
 }
